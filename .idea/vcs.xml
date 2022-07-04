@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/backup/apache-maven" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/javinha_training" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/tc-hbtn-java (maven backup)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/backup/tc-hbtn_teste (copy)" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/maven" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tc-hbtn-DB" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tc-hbtn-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tc-hbtn-microservices" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tc-hbtn_teste" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tc-java" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tc-java/total" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tc-projeto_github" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tc-second_repo" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tc-shell" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tc-unix" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/tc-zero_day" vcs="Git" />
+  </component>
+</project>
